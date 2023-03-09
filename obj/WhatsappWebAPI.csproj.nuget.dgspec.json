@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Harsha Project Backup\\Whatsapp\\WhatsappAPI\\WhatsappWebAPI\\WhatsappWebAPI.csproj": {}
+    "G:\\git_dev_repos\\howzuWhatsappApis\\WhatsappWebAPI.csproj": {}
   },
   "projects": {
-    "E:\\Harsha Project Backup\\Whatsapp\\WhatsappAPI\\WhatsappWebAPI\\WhatsappWebAPI.csproj": {
+    "G:\\git_dev_repos\\howzuWhatsappApis\\WhatsappWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Harsha Project Backup\\Whatsapp\\WhatsappAPI\\WhatsappWebAPI\\WhatsappWebAPI.csproj",
+        "projectUniqueName": "G:\\git_dev_repos\\howzuWhatsappApis\\WhatsappWebAPI.csproj",
         "projectName": "WhatsappWebAPI",
-        "projectPath": "E:\\Harsha Project Backup\\Whatsapp\\WhatsappAPI\\WhatsappWebAPI\\WhatsappWebAPI.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "E:\\Harsha Project Backup\\Whatsapp\\WhatsappAPI\\WhatsappWebAPI\\obj\\",
+        "projectPath": "G:\\git_dev_repos\\howzuWhatsappApis\\WhatsappWebAPI.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "G:\\git_dev_repos\\howzuWhatsappApis\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
